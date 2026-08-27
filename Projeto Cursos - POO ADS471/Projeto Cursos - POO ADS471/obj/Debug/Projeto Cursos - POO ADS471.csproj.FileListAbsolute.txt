@@ -1,0 +1,7 @@
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\bin\Debug\Projeto Cursos - POO ADS471.exe.config
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\bin\Debug\Projeto Cursos - POO ADS471.exe
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\bin\Debug\Projeto Cursos - POO ADS471.pdb
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\obj\Debug\Projeto Cursos - POO ADS471.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\obj\Debug\Projeto Cursos - POO ADS471.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\obj\Debug\Projeto Cursos - POO ADS471.exe
+C:\Users\Micro\source\repos\Projeto Cursos - POO ADS471\Projeto Cursos - POO ADS471\obj\Debug\Projeto Cursos - POO ADS471.pdb
