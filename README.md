@@ -50,46 +50,6 @@ Este é um projeto acadêmico (ADS471) que implementa um sistema completo de ges
 | Alunos por disciplina | 15 |
 | Disciplinas por aluno | 6 |
 
-## 🛠️ Tecnologias Utilizadas
-
-- **Linguagem:** C# (.NET)
-- **Padrão:** Console Application
-- **Conceitos:** Programação Orientada a Objetos
-
-## 📁 Estrutura de Arquivos
-
-```
-Projeto Cursos - POO ADS471/
-├── Program.cs              # Menu principal e interface de usuário
-├── Gestão.cs              # Classes do modelo (Escola, Curso, Disciplina, Aluno)
-├── App.config             # Configurações da aplicação
-└── Properties/            # Metadados do projeto
-```
-
-## 🚀 Como Usar
-
-1. **Compilar o projeto**
-   - Abra o arquivo `.sln` no Visual Studio
-   - Compile a solução
-
-2. **Executar a aplicação**
-   - Execute o programa
-   - Um menu interativo será exibido no console
-
-3. **Navegar pelo menu**
-   - Digite o número da opção desejada (0-9)
-   - Siga as instruções na tela
-
-### Exemplo de Fluxo
-
-```
-1. Adicionar um curso
-2. Pesquisar o curso criado
-3. Adicionar uma disciplina ao curso
-4. Matricular alunos na disciplina
-5. Pesquisar alunos para verificar suas inscrições
-```
-
 ## ✨ Características de Validação
 
 - **Prevenção de IDs duplicados:** Não permite cursos ou disciplinas com IDs repetidos
